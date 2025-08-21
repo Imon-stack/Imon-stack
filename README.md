@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/monoshiz (imon) bose rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monoshiz (imon) bose rai" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/monoshiz-bose-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monoshiz (imon) bose rai" height="30" width="40" /></a>
 <a href="https://instagram.com/hod_is_bihinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hod_is_bihinn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@lensbondimuhurto8535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lensbondimuhurto8535" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/monoshibmod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monoshibmod" height="30" width="40" /></a>
